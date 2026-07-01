@@ -1,5 +1,7 @@
 # Credit Card Fraud Detection
 
+Here is my project video Explanation and dataset : https://drive.google.com/drive/folders/1Czmtq4Wpljaapfq1Bz-mcj6ChLJq6PAF?usp=sharing
+
 ## Project
 Credit Card Fraud Detection using Supervised Machine Learning.
 
